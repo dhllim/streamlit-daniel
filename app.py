@@ -35,7 +35,6 @@ def check_password():
 
 if check_password():
     st.write("Your protected app content here")
-
     
 
 
